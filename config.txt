@@ -1,0 +1,33 @@
+Domain
+
+
+Username:	unaux_31267112
+Status:	Active
+Main Domain:	tryal.unaux.com
+Builders Created:	0
+Created On:	2022-03-11 13:29:58
+
+
+
+
+
+ftp
+
+FTP Hostname:	ftpupload.net
+FTP Username:	unaux_31267112
+FTP Password:	kp9jzmwha8v
+
+
+dns
+
+
+Nameserver 1:	ns1.unaux.com
+Nameserver 2:	ns2.unaux.com
+MX Record:	mx.unaux.com
+
+Datatbase
+
+DBname: unaux_31267112_bookstore
+user Name:	    unaux_31267112
+Password:  	(Your vPanel Password)	
+Host name        sql301.unaux.com
