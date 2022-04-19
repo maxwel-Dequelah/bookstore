@@ -3,7 +3,7 @@
 </head>
 <div class="nav-bar">
         <div class="nav-logo">
-            <a href="index.php" style={color:green;}'>CoolBooks</a>
+            <a href="/bookstore/bookstore" style={color:green;}'>CoolBooks</a>
 
         </div>
         <div class="nav-nav">
