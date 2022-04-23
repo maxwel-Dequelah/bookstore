@@ -8,6 +8,20 @@
     <title>list</title>
 </head>
 <body>
+    <button  class='submit' type='submit'>
+        read
+    </button>
+    <?php
+$myfile = fopen("files/names.txt", "r+") or die("Unable to open file!");
+// Output one character until end-of-file
+
+echo fgetc($myfile);
+while(!feof($myfile)){
+    echo fgetc($myfile);
+}
+echo(fclose($myfile));
+?>
+
 
 </body>
 </html>
